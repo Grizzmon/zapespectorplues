@@ -16,9 +16,9 @@ export function Pricing() {
           </p>
 
           <div className="mt-8">
-            <p className="text-sm text-white/70 line-through">De R$ 197</p>
+            <p className="text-sm text-white/70 line-through">De R$ 347,90</p>
             <p className="font-display text-5xl font-extrabold text-white">
-              R$ 47
+              R$ 89,90
             </p>
           </div>
 
