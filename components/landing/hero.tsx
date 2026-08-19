@@ -12,18 +12,18 @@ export function Hero() {
         {/* texto */}
         <div className="animate-fade-up">
           <h1 className="font-display text-4xl font-extrabold leading-tight text-balance md:text-5xl lg:text-6xl">
-            A versão que muda tudo:{' '}
-            <span className="text-brand-light">PRO PLUS</span>
+            Fiscalise todos os Detalhes:{' '}
+            <span className="text-brand-light">ESPECTOR PRO PLUS</span>
           </h1>
           <p className="mt-5 max-w-md text-base leading-relaxed text-muted-foreground md:text-lg">
-            Tudo que você precisa em um só lugar, com uma experiência simples,
-            rápida e feita para o próximo nível. Garanta o seu acesso agora.
+            Todas as Funcionalidades desbloquedas, com uma experiência simples,
+            monitore os seus contactos sem limite. Garanta o seu acesso agora.
           </p>
           <a
             href="#comprar"
             className="mt-8 inline-block rounded-full bg-accent-yellow px-8 py-4 text-base font-bold text-[#2b1d00] shadow-lg shadow-accent-yellow/20 transition hover:brightness-95 active:scale-[0.98]"
           >
-            Quero o Acesso PRO PLUS
+            Quero o Acesso ESPECTOR PRO PLUS
           </a>
         </div>
 
