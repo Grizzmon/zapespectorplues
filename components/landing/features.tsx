@@ -3,7 +3,7 @@ import { Reveal } from './reveal'
 const features = [
   {
     title: 'Simples de usar',
-    desc: 'Tudo pronto em poucos cliques. Uma experiência direta, sem complicação e feita para o seu dia a dia.',
+    desc: 'Tudo pronto em poucos cliques. Uma experiência direta, sem complicação e feita para gerenciar seu relacionamento com segurança.',
   },
   {
     title: 'Rápido e completo',
@@ -11,7 +11,7 @@ const features = [
   },
   {
     title: 'Acesso imediato',
-    desc: 'Compre e comece a usar na hora. Sem espera, com suporte e atualizações incluídas.',
+    desc: 'Garanra e comece a usar na hora. Sem espera, com suporte e atualizações incluídas.',
   },
 ]
 
