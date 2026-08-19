@@ -16,7 +16,7 @@ export default function Page() {
           App PRO PLUS
         </p>
         <p className="mx-auto mt-2 max-w-md text-xs leading-relaxed text-muted-foreground">
-          © {new Date().getFullYear()} App PRO PLUS. Todos os direitos
+          © {new Date().getFullYear()} Zap Espector PRO PLUS. Todos os direitos
           reservados.
         </p>
       </footer>
